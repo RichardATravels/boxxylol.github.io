@@ -1,0 +1,69 @@
+body {
+    background-image: url("../img/mainBackground.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+
+header {
+    font-size: 7.5em;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    font-family: 'Share', cursive;
+}
+
+
+
+div {
+    text-align: center;
+    width: 100%
+}
+
+img {
+    display: block;
+    width: 200px;
+    margin: 0 auto 10px;
+    border-radius: 160px;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    width: 400px;
+    margin: 0px auto 20px;
+}
+
+
+p:first {
+    margin-bottom: 40px;
+}
+
+p:last {
+
+}
+
+i {
+    font-size: 200%;
+}
+
+hr {
+    width: 400px;
+    margin: 20px auto;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    color: white;
+    margin: 10px;
+}
+
+.iconSmall {
+    font-size: 1em;
+}
